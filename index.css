@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+.hd{
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 5%;
+} 
+.intro{
+    color: rgb(31, 215, 18);
+    text-align: center;
+    font-weight: bold;
+
+
+}
+.token{
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5%;
+}
+.menu{
+    
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     padding-top: 5%;
+     color: greenyellow;
+
+}
